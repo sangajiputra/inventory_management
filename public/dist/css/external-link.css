@@ -1,0 +1,28 @@
+  .pcoded-main-container {
+    margin-left: unset !important;
+  }
+  .image-left{
+    padding-left: 40px;
+    padding-top: 20px;
+  }
+
+  .card-footer, .card-header {
+    padding: unset !important;
+    background-color: unset !important;
+  }
+  .card-header {
+      border-bottom: unset !important;
+  }
+
+  .m-t-30 {
+    margin-top: 31px !important;
+}
+
+.customer-padding {
+  padding-top: 30px !important;
+  padding-left: 20px !important;
+}
+
+.logo-position-remove ::after {
+  background-color: unset !important;
+}
